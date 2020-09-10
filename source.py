@@ -24,7 +24,3 @@ def compareStrings(a, b):
     else:
         log.info('Ambas cadenas tienen el mismo largo')
         raise ValueError('Ambos parametros tienen el mismo largo, no es posible determinar cual cadena es de mayor tamaño.')
-
-compareStrings('aaaaa', 'asd' * 10)
-# compareStrings('aaaaa', b'\xC0'.decode('utf-8'))
-#compareStrings(200, 30)
