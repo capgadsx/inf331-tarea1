@@ -1,6 +1,6 @@
 # INF331 - Tarea 1
 
-Foobar is a Python library for dealing with word pluralization.
+`compareStrings` es una función que compara 2 cadenas de caracteres y responde a la pregunta ¿cuál cadena es más larga?
 
 ## Dependencias
 
